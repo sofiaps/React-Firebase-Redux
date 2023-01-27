@@ -1,5 +1,5 @@
-# React-Firebase-Redux
-# Sample React E-Commerce Shop (Firebase+Redux)
+# React-Firebase-Redux-Redux-Persist
+# Replace Context / Redux & persist changes with Redux-Persist
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
