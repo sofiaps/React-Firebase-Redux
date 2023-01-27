@@ -1,4 +1,4 @@
-# React-Firebase-Redux-Redux-Persist
+# Crown e-Commerce with React-Firebase-Redux-Redux-Persist
 # Replace Context / Redux & persist changes with Redux-Persist
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
